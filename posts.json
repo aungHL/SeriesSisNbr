@@ -3,13 +3,52 @@
 [
 {
 "title" : "အိမ်နီးချင်းမမ",
+"status" : "အပိုင်း (၉၄)",
+"cover" : "https://1.bp.blogspot.com/-txbN9dgPX9w/XzfqZipwziI/AAAAAAAAZwM/KZVrKt3x420xuyg3Fcnbkhh25ZAOO2vrACLcBGAsYHQ/s640/000cover.jpg",
+"author" : "XC2",
+"encoder" : "XC2",
+"tag" : "series,013",
+"price" : "0",
+"post" : "
+<img src=\"https://1.bp.blogspot.com/-w4tLoheurpE/XzfqfHKtxGI/AAAAAAAAZw4/0L_1nX-BWhcdbdhOAkHtHOd7eecbSl7AACLcBGAsYHQ/s5000/1sn.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-1RtjW1YWHwM/XzfqionkXnI/AAAAAAAAZxY/vVA3Edy5A54Rggr3dNMVjBWFQNzRNNoEACLcBGAsYHQ/s5000/2sn.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-TB1R53syt-E/Xzfqi7vTqBI/AAAAAAAAZxc/j43S4eV9pQcjuoifxzhRphHjrWrMIp2CACLcBGAsYHQ/s5000/3sn.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-WlYNjOzUwdA/Xzfqi-6aLSI/AAAAAAAAZxg/8yLScu0MRFYeylGFkSFr43LkC9Pag81FgCLcBGAsYHQ/s5000/4sn.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-tnYwcR5jAvg/XzfqjXkkoSI/AAAAAAAAZxk/HlNo_KwWcgcNSgHbLpBf8AzOW2XQDluKwCLcBGAsYHQ/s5000/5sn.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-h3O7ywYTVcc/XzfqjoW0ceI/AAAAAAAAZxo/E402eaDX5VUrh1-Rpf7UIp4IveMrmz_GQCLcBGAsYHQ/s5000/6sn.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/--Vt4luKik9s/Xzfqjj1F32I/AAAAAAAAZxs/-g2InToqSPImEtrcgcOYKW0pnFCup5t8gCLcBGAsYHQ/s5000/7sn.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-LWoay13fllg/Xzfqj3d7hAI/AAAAAAAAZxw/1gkPtoExU2cVHyB9K2ZiL0Y8FD8mTODewCLcBGAsYHQ/s5000/8sn.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-EZ3UzxiRsTw/XzfqkslDl7I/AAAAAAAAZx0/oyIPn7xER-oc6mSMN2a9qkp2jub15hI7wCLcBGAsYHQ/s5000/9sn.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-EHWiE0nBeug/XzfqZ-nVe5I/AAAAAAAAZwQ/oRZGjHu0Jdg6eeMjoPsDermKvUJ1YkPHQCLcBGAsYHQ/s5000/10sn.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-lobbtNSz6BE/XzfqZyOgW1I/AAAAAAAAZwU/1hnDe2ILnRI1BeuJpPcaaXucNtANaGFIQCLcBGAsYHQ/s5000/11sn.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-D1SL1XvVL84/XzfqbUXgkNI/AAAAAAAAZwc/f0ZTycT7QLE0eci-RSGDOGhJQZTfvP-SwCLcBGAsYHQ/s5000/12sn.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-pGZHR25GdTM/XzfqbaDitcI/AAAAAAAAZwY/zSUbBhdGR9gFV2QPTAWktwm1BiX1MylCACLcBGAsYHQ/s5000/13sn.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-xeWvuzzTTWo/XzfqbhaHGBI/AAAAAAAAZwg/a9py72IimoYt-Uu2BTHnYoan_t33FGe2ACLcBGAsYHQ/s5000/14sn.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-87RzY3qg8M8/XzfqdrHsxWI/AAAAAAAAZws/B5WNY8PFl9Uv5P4ZMeQTgTSegu5UmX9jgCLcBGAsYHQ/s5000/15sn.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-zIQkSHVVMak/XzfqdXck0DI/AAAAAAAAZwk/O21s02YcWzIIzdpgKwF6JKmbR2vSoafVACLcBGAsYHQ/s5000/16sn.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-2VmSqwPgqQM/XzfqdYi0xFI/AAAAAAAAZwo/7FG9uoq1s9AwKsMXt-tgS7B_Q5rl11f7wCLcBGAsYHQ/s5000/17sn.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-QIOObr-iJIE/XzfqfMYnEmI/AAAAAAAAZww/L6uevIU6LV4PbJvJxEpL8DDujEeAnzUMACLcBGAsYHQ/s5000/18sn.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-k-zKkx8lcGA/XzfqfLk5nuI/AAAAAAAAZw0/AamWhJEw8O0M-2VC5B8lKKBNMqZaz3pLgCLcBGAsYHQ/s5000/19sn.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-P9FHt3n6LDE/XzfqgS0FYVI/AAAAAAAAZw8/q56Pf_ze73E2XTbpOimRbA1twx9EHbIRQCLcBGAsYHQ/s5000/20sn.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-AJWhIpxDNB4/XzfqghyjFjI/AAAAAAAAZxE/8w9vLnkVmrg2NQ7p8ucNsFPK7WzO6pnZwCLcBGAsYHQ/s5000/21sn.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-Ix3_A9iV7Qc/XzfqggJG_iI/AAAAAAAAZxA/XKM9Wr8EPOkjfGlq53cCK3Fd79doHslpQCLcBGAsYHQ/s5000/22sn.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-ZZ6uvnGTJ9U/XzfqhUb5SNI/AAAAAAAAZxI/ubu-1Zx629oMKcagHsHtAAhkV2NOFtpawCLcBGAsYHQ/s5000/23sn.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-PSkN5SYE8sk/Xzfqhjt9ypI/AAAAAAAAZxM/7ufZ_JZld_4Id-Z7q0kG24QmDTT30fs_QCLcBGAsYHQ/s5000/24sn.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-ErxJxsJ8V5M/Xzfqh-hipaI/AAAAAAAAZxQ/QPQ5DWW92SYyBefG7KpQEspSsuHsDtQcACLcBGAsYHQ/s5000/25sn.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-CYLZl_4KX-A/XzfqiEa95OI/AAAAAAAAZxU/Byu1b5-flvkHQn7yekkeclm5M19Zmm_NQCLcBGAsYHQ/s5000/26sn.jpg\"width=\"100%\"/>
+"
+}
+,
+{
+"title" : "အိမ်နီးချင်းမမ",
 "status" : "အပိုင်း (၉၃)",
 "cover" : "https://1.bp.blogspot.com/-l8BZ4VA-KO0/XyrBU2Y5__I/AAAAAAAAXac/X51f8ZbxDQIqV5CsxrwMqzJMi9ha89lhACLcBGAsYHQ/s906/000cover.jpg",
 "author" : "XC2",
 "encoder" : "XC2",
 "tag" : "series,013",
 "price" : "0",
-"post" : "<img src=\"https://1.bp.blogspot.com/-3qzwYWe0TdM/XyrBVea7IBI/AAAAAAAAXag/GwElMhzf1hAeh9Qb7u62E_gqHJ6zCDVSACLcBGAsYHQ/s5000/IMG_20200805_102714-picsay.jpg\" width=\"100%\" />
+"post" : "
+<img src=\"https://1.bp.blogspot.com/-3qzwYWe0TdM/XyrBVea7IBI/AAAAAAAAXag/GwElMhzf1hAeh9Qb7u62E_gqHJ6zCDVSACLcBGAsYHQ/s5000/IMG_20200805_102714-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-VG65f6nMCZY/XyrBVdg2MeI/AAAAAAAAXak/Uvgy67ZzaXUqL6P8MqwOblrfBEv5yS5HQCLcBGAsYHQ/s5000/IMG_20200805_102721-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-QO6rmkZmhik/XyrBWCjBHQI/AAAAAAAAXao/iwT1CSb-xIIrOvR85Ua2xnm4zYYKNgUkgCLcBGAsYHQ/s5000/IMG_20200805_102731-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-eP9Ms_a9u_8/XyrBXeYfjxI/AAAAAAAAXaw/jWa9qY7JGN4jZpPRdjvhQ-Z_fF1hszQ7QCLcBGAsYHQ/s5000/IMG_20200805_102820-picsay.jpg\" width=\"100%\" />
